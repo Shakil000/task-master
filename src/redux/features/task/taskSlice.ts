@@ -18,7 +18,7 @@ const initialState : InitialState = {
         priority: "High",
     },
         {
-        id: "123",
+        id: "1234",
         title: "Connect to Github",
         description: "Trying to learn redux",
         dueDate: "2025",
@@ -26,7 +26,7 @@ const initialState : InitialState = {
         priority: "Low",
     },
         {
-        id: "123",
+        id: "1235",
         title: "Creating Backend server with express",
         description: "Trying to create server with express",
         dueDate: "2025",
